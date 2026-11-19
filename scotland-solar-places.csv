@@ -1,0 +1,38 @@
+town,keyword,volume,cpc,competition,opportunity_score,tier,volume_bucket,region,emd_primary,lat,lng
+scotland,solar panels scotland,1300,13.35,93.0,6068.2,S,500+,Scotland-wide,solarpanelsscotland.co.uk,56.49,-4.2
+glasgow,solar panels glasgow,320,14.25,90.0,1628.6,S,200-499,Glasgow & Clyde,solarpanelsglasgow.co.uk,55.86515,-4.25763
+edinburgh,solar panels edinburgh,260,20.16,88.0,1899.1,S,200-499,Edinburgh & Lothians,solarpanelsedinburgh.co.uk,55.95206,-3.19648
+aberdeen,solar panels aberdeen,260,16.03,82.0,1578.7,S,200-499,Aberdeen & North East,solarpanelsaberdeen.co.uk,57.14369,-2.09814
+aberdeenshire,solar panels aberdeenshire,260,16.03,82.0,1578.7,S,200-499,Aberdeen & North East,solarpanelsaberdeenshire.co.uk,57.28446,-2.37736
+inverness,solar panels inverness,90,10.3,96.0,317.5,A,70-199,Highlands,solarpanelsinverness.co.uk,57.47908,-4.22398
+perth,solar panels perth,90,7.67,65.0,300.1,A,70-199,Tayside,solarpanelsperth.co.uk,56.39522,-3.43139
+fife,solar panels fife,70,25.01,78.0,683.9,A,70-199,Fife,solarpanelsfife.co.uk,56.19514,-3.17316
+dundee,solar panels dundee,70,11.1,83.0,292.1,A,70-199,Tayside,solarpanelsdundee.co.uk,56.46913,-2.97489
+ayrshire,solar panels ayrshire,30,16.58,66.0,214.4,B,20-69,Ayrshire,solarpanelsayrshire.co.uk,55.6194,-4.65508
+stirling,solar panels stirling,30,15.24,78.0,178.6,B,20-69,Forth Valley,solarpanelsstirling.co.uk,56.11903,-3.93682
+dumfries,solar panels dumfries,30,8.37,83.0,94.4,B,20-69,Dumfries & Galloway,solarpanelsdumfries.co.uk,55.06959,-3.61139
+midlothian,solar panels midlothian,20,40.66,93.0,284.3,C,20-69,Edinburgh & Lothians,solarpanelsmidlothian.co.uk,55.89317,-3.06806
+falkirk,solar panels falkirk,20,21.67,83.0,162.9,C,20-69,Forth Valley,solarpanelsfalkirk.co.uk,56.0021,-3.78535
+galashiels,solar panels galashiels,20,19.69,80.0,151.5,C,20-69,Scottish Borders,solarpanelsgalashiels.co.uk,55.61458,-2.80695
+moray,solar panels moray,20,19.47,70.0,162.2,C,20-69,Aberdeen & North East,solarpanelsmoray.co.uk,57.72136,-3.28341
+livingston,solar panels livingston,20,13.59,74.0,109.6,C,20-69,Edinburgh & Lothians,solarpanelslivingston.co.uk,55.90288,-3.52261
+east lothian,solar panels east lothian,20,12.3,84.0,91.8,C,20-69,Edinburgh & Lothians,solarpanelseastlothian.co.uk,55.95612,-2.78332
+dunfermline,solar panels dunfermline,20,12.22,83.0,91.9,C,20-69,Fife,solarpanelsdunfermline.co.uk,56.07156,-3.45887
+lanarkshire,solar panels lanarkshire,20,8.52,94.0,59.2,C,20-69,Lanarkshire,solarpanelslanarkshire.co.uk,55.76667,-3.91667
+elgin,solar panels elgin,20,8.37,90.0,59.8,C,20-69,Aberdeen & North East,solarpanelselgin.co.uk,57.64947,-3.31843
+kilmarnock,solar panels kilmarnock,10,43.58,89.0,156.8,D,<20,Ayrshire,solarpanelskilmarnock.co.uk,55.61171,-4.49581
+paisley,solar panels paisley,10,25.15,97.0,85.5,D,<20,Glasgow & Clyde,solarpanelspaisley.co.uk,55.83173,-4.43254
+ayr,solar panels ayr,10,23.49,83.0,88.3,D,<20,Ayrshire,solarpanelsayr.co.uk,55.46273,-4.63393
+west lothian,solar panels west lothian,10,19.0,80.0,73.1,D,<20,Edinburgh & Lothians,solarpanelswestlothian.co.uk,55.97639,-3.60364
+forres,solar panels forres,10,14.81,82.0,56.1,D,<20,Aberdeen & North East,solarpanelsforres.co.uk,57.60997,-3.62115
+east kilbride,solar panels east kilbride,10,13.61,91.0,48.3,D,<20,Glasgow & Clyde,solarpanelseastkilbride.co.uk,55.76412,-4.17669
+hamilton,solar panels hamilton,10,12.65,90.0,45.2,D,<20,Lanarkshire,solarpanelshamilton.co.uk,55.76667,-4.03333
+bathgate,solar panels bathgate,10,12.25,93.0,42.8,D,<20,Edinburgh & Lothians,solarpanelsbathgate.co.uk,55.90204,-3.64398
+motherwell,solar panels motherwell,10,7.69,100.0,25.6,D,<20,Lanarkshire,solarpanelsmotherwell.co.uk,55.78924,-3.99187
+highlands,solar panels highlands,10,4.69,58.0,21.7,D,<20,Highlands,solarpanelshighlands.co.uk,57.19553,-3.8259
+cumbernauld,solar panels cumbernauld,10,0,50.0,2.5,D,<20,Lanarkshire,solarpanelscumbernauld.co.uk,55.94685,-3.99051
+kinross,solar panels kinross,10,0,50.0,2.5,D,<20,Tayside,solarpanelskinross.co.uk,56.20466,-3.42138
+kirkcaldy,solar panels kirkcaldy,10,0,29.0,3.2,D,<20,Fife,solarpanelskirkcaldy.co.uk,56.11683,-3.15999
+perthshire,solar panels perthshire,10,0,7.0,4.4,D,<20,Tayside,solarpanelsperthshire.co.uk,56.37268,-3.83891
+renfrewshire,solar panels renfrewshire,10,0,25.0,3.3,D,<20,Glasgow & Clyde,solarpanelsrenfrewshire.co.uk,55.82906,-4.51605
+tayside,solar panels tayside,10,0,86.0,1.8,D,<20,Tayside,solarpanelstayside.co.uk,56.64382,-2.89001

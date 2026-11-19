@@ -1,0 +1,944 @@
+[
+  {
+    "keyword": "solar panels scotland",
+    "town": "scotland",
+    "volume": 1300,
+    "cpc": 13.35,
+    "competition": 93.0,
+    "opportunity_score": 6068.2,
+    "tier": "S",
+    "volume_bucket": "500+",
+    "region": "Scotland-wide",
+    "emd_primary": "solarpanelsscotland.co.uk",
+    "emd_best_available": "solarpanelsscotland.co.uk",
+    "emd_available": [
+      "solarpanelsscotland.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.49,
+    "lng": -4.2,
+    "extras": [
+      {
+        "kw": "solar panel grants scotland",
+        "vol": 1900,
+        "page": "/solar-panel-grants/",
+        "type": "Content",
+        "note": "Largest Scotland intent cluster \u2014 one grants page"
+      },
+      {
+        "kw": "home energy scotland grant",
+        "vol": 1000,
+        "page": "/solar-panel-grants/",
+        "type": "Content",
+        "note": "Scheme name people actually search"
+      },
+      {
+        "kw": "free solar panels scotland",
+        "vol": 390,
+        "page": "/solar-panel-grants/",
+        "type": "Content",
+        "note": "Grant-seekers; answer with the loan, not a free install"
+      },
+      {
+        "kw": "cost of solar panels scotland",
+        "vol": 320,
+        "page": "/solar-panel-cost/",
+        "type": "Secondary",
+        "note": "Pricing page"
+      },
+      {
+        "kw": "are solar panels worth it in scotland",
+        "vol": 170,
+        "page": "/blog/are-solar-panels-worth-it/",
+        "type": "Content",
+        "note": "Weather and payback objection"
+      },
+      {
+        "kw": "solar panel installation scotland",
+        "vol": 110,
+        "page": "/solar-panel-installation/",
+        "type": "Secondary",
+        "note": "Installer-intent national term"
+      },
+      {
+        "kw": "solar panel installers scotland",
+        "vol": 50,
+        "page": "/",
+        "type": "Secondary",
+        "note": "Homepage support"
+      },
+      {
+        "kw": "warmer homes scotland",
+        "vol": 1600,
+        "page": "/solar-panel-grants/",
+        "type": "Content",
+        "note": "Related scheme; only mention if solar is in scope"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels glasgow",
+    "town": "glasgow",
+    "volume": 320,
+    "cpc": 14.25,
+    "competition": 90.0,
+    "opportunity_score": 1628.6,
+    "tier": "S",
+    "volume_bucket": "200-499",
+    "region": "Glasgow & Clyde",
+    "emd_primary": "solarpanelsglasgow.co.uk",
+    "emd_best_available": "solarpanelsglasgow.co.uk",
+    "emd_available": [
+      "solarpanelsglasgow.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.86515,
+    "lng": -4.25763,
+    "extras": [
+      {
+        "kw": "solar panel installation glasgow",
+        "vol": 210,
+        "page": "/solar-panel-installation/",
+        "type": "Secondary",
+        "note": "Measured"
+      },
+      {
+        "kw": "solar panel installers glasgow",
+        "vol": 170,
+        "page": "/",
+        "type": "Secondary",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels edinburgh",
+    "town": "edinburgh",
+    "volume": 260,
+    "cpc": 20.16,
+    "competition": 88.0,
+    "opportunity_score": 1899.1,
+    "tier": "S",
+    "volume_bucket": "200-499",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelsedinburgh.co.uk",
+    "emd_best_available": "solarpanelsedinburgh.co.uk",
+    "emd_available": [
+      "solarpanelsedinburgh.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.95206,
+    "lng": -3.19648,
+    "extras": [
+      {
+        "kw": "solar panel installation edinburgh",
+        "vol": 170,
+        "page": "/solar-panel-installation/",
+        "type": "Secondary",
+        "note": "Measured"
+      },
+      {
+        "kw": "solar panel installers edinburgh",
+        "vol": 170,
+        "page": "/",
+        "type": "Secondary",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels aberdeen",
+    "town": "aberdeen",
+    "volume": 260,
+    "cpc": 16.03,
+    "competition": 82.0,
+    "opportunity_score": 1578.7,
+    "tier": "S",
+    "volume_bucket": "200-499",
+    "region": "Aberdeen & North East",
+    "emd_primary": "solarpanelsaberdeen.co.uk",
+    "emd_best_available": "solarpanelsaberdeen.co.uk",
+    "emd_available": [
+      "solarpanelsaberdeen.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.14369,
+    "lng": -2.09814,
+    "extras": [
+      {
+        "kw": "solar panel installers aberdeen",
+        "vol": 10,
+        "page": "/",
+        "type": "Supporting",
+        "note": "Measured, low volume"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels aberdeenshire",
+    "town": "aberdeenshire",
+    "volume": 260,
+    "cpc": 16.03,
+    "competition": 82.0,
+    "opportunity_score": 1578.7,
+    "tier": "S",
+    "volume_bucket": "200-499",
+    "region": "Aberdeen & North East",
+    "emd_primary": "solarpanelsaberdeenshire.co.uk",
+    "emd_best_available": "solarpanelsaberdeenshire.co.uk",
+    "emd_available": [
+      "solarpanelsaberdeenshire.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.28446,
+    "lng": -2.37736,
+    "extras": [
+      {
+        "kw": "solar panel installers aberdeenshire",
+        "vol": 20,
+        "page": "/",
+        "type": "Secondary",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels inverness",
+    "town": "inverness",
+    "volume": 90,
+    "cpc": 10.3,
+    "competition": 96.0,
+    "opportunity_score": 317.5,
+    "tier": "A",
+    "volume_bucket": "70-199",
+    "region": "Highlands",
+    "emd_primary": "solarpanelsinverness.co.uk",
+    "emd_best_available": "solarpanelsinverness.co.uk",
+    "emd_available": [
+      "solarpanelsinverness.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.47908,
+    "lng": -4.22398,
+    "extras": [
+      {
+        "kw": "solar panel installers inverness",
+        "vol": 10,
+        "page": "/",
+        "type": "Supporting",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels perth",
+    "town": "perth",
+    "volume": 90,
+    "cpc": 7.67,
+    "competition": 65.0,
+    "opportunity_score": 300.1,
+    "tier": "A",
+    "volume_bucket": "70-199",
+    "region": "Tayside",
+    "emd_primary": "solarpanelsperth.co.uk",
+    "emd_best_available": "solarpanelsperth.co.uk",
+    "emd_available": [
+      "solarpanelsperth.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.39522,
+    "lng": -3.43139,
+    "extras": [
+      {
+        "kw": "solar panels perth scotland",
+        "vol": 30,
+        "page": "/",
+        "type": "Primary alt",
+        "note": "Disambiguates Perth, Australia"
+      },
+      {
+        "kw": "solar panel installation perth",
+        "vol": 20,
+        "page": "/solar-panel-installation/",
+        "type": "Secondary",
+        "note": "Measured"
+      },
+      {
+        "kw": "solar panel installers perth",
+        "vol": 20,
+        "page": "/",
+        "type": "Secondary",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels fife",
+    "town": "fife",
+    "volume": 70,
+    "cpc": 25.01,
+    "competition": 78.0,
+    "opportunity_score": 683.9,
+    "tier": "A",
+    "volume_bucket": "70-199",
+    "region": "Fife",
+    "emd_primary": "solarpanelsfife.co.uk",
+    "emd_best_available": "solarpanelsfife.co.uk",
+    "emd_available": [
+      "solarpanelsfife.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.19514,
+    "lng": -3.17316,
+    "extras": [
+      {
+        "kw": "solar panel installers fife",
+        "vol": 10,
+        "page": "/",
+        "type": "Supporting",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels dundee",
+    "town": "dundee",
+    "volume": 70,
+    "cpc": 11.1,
+    "competition": 83.0,
+    "opportunity_score": 292.1,
+    "tier": "A",
+    "volume_bucket": "70-199",
+    "region": "Tayside",
+    "emd_primary": "solarpanelsdundee.co.uk",
+    "emd_best_available": "solarpanelsdundee.co.uk",
+    "emd_available": [
+      "solarpanelsdundee.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.46913,
+    "lng": -2.97489,
+    "extras": [
+      {
+        "kw": "solar panel installers dundee",
+        "vol": 10,
+        "page": "/",
+        "type": "Supporting",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels ayrshire",
+    "town": "ayrshire",
+    "volume": 30,
+    "cpc": 16.58,
+    "competition": 66.0,
+    "opportunity_score": 214.4,
+    "tier": "B",
+    "volume_bucket": "20-69",
+    "region": "Ayrshire",
+    "emd_primary": "solarpanelsayrshire.co.uk",
+    "emd_best_available": "solarpanelsayrshire.co.uk",
+    "emd_available": [
+      "solarpanelsayrshire.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.6194,
+    "lng": -4.65508,
+    "extras": [
+      {
+        "kw": "solar panel installers ayrshire",
+        "vol": 10,
+        "page": "/",
+        "type": "Supporting",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels stirling",
+    "town": "stirling",
+    "volume": 30,
+    "cpc": 15.24,
+    "competition": 78.0,
+    "opportunity_score": 178.6,
+    "tier": "B",
+    "volume_bucket": "20-69",
+    "region": "Forth Valley",
+    "emd_primary": "solarpanelsstirling.co.uk",
+    "emd_best_available": "solarpanelsstirling.co.uk",
+    "emd_available": [
+      "solarpanelsstirling.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.11903,
+    "lng": -3.93682,
+    "extras": [
+      {
+        "kw": "solar panel installation stirling",
+        "vol": 10,
+        "page": "/solar-panel-installation/",
+        "type": "Supporting",
+        "note": "Measured"
+      }
+    ]
+  },
+  {
+    "keyword": "solar panels dumfries",
+    "town": "dumfries",
+    "volume": 30,
+    "cpc": 8.37,
+    "competition": 83.0,
+    "opportunity_score": 94.4,
+    "tier": "B",
+    "volume_bucket": "20-69",
+    "region": "Dumfries & Galloway",
+    "emd_primary": "solarpanelsdumfries.co.uk",
+    "emd_best_available": "solarpanelsdumfries.co.uk",
+    "emd_available": [
+      "solarpanelsdumfries.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.06959,
+    "lng": -3.61139,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels midlothian",
+    "town": "midlothian",
+    "volume": 20,
+    "cpc": 40.66,
+    "competition": 93.0,
+    "opportunity_score": 284.3,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelsmidlothian.co.uk",
+    "emd_best_available": "solarpanelsmidlothian.co.uk",
+    "emd_available": [
+      "solarpanelsmidlothian.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.89317,
+    "lng": -3.06806,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels falkirk",
+    "town": "falkirk",
+    "volume": 20,
+    "cpc": 21.67,
+    "competition": 83.0,
+    "opportunity_score": 162.9,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Forth Valley",
+    "emd_primary": "solarpanelsfalkirk.co.uk",
+    "emd_best_available": "solarpanelsfalkirk.co.uk",
+    "emd_available": [
+      "solarpanelsfalkirk.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.0021,
+    "lng": -3.78535,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels galashiels",
+    "town": "galashiels",
+    "volume": 20,
+    "cpc": 19.69,
+    "competition": 80.0,
+    "opportunity_score": 151.5,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Scottish Borders",
+    "emd_primary": "solarpanelsgalashiels.co.uk",
+    "emd_best_available": "solarpanelsgalashiels.co.uk",
+    "emd_available": [
+      "solarpanelsgalashiels.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.61458,
+    "lng": -2.80695,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels moray",
+    "town": "moray",
+    "volume": 20,
+    "cpc": 19.47,
+    "competition": 70.0,
+    "opportunity_score": 162.2,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Aberdeen & North East",
+    "emd_primary": "solarpanelsmoray.co.uk",
+    "emd_best_available": "solarpanelsmoray.co.uk",
+    "emd_available": [
+      "solarpanelsmoray.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.72136,
+    "lng": -3.28341,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels livingston",
+    "town": "livingston",
+    "volume": 20,
+    "cpc": 13.59,
+    "competition": 74.0,
+    "opportunity_score": 109.6,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelslivingston.co.uk",
+    "emd_best_available": "solarpanelslivingston.co.uk",
+    "emd_available": [
+      "solarpanelslivingston.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.90288,
+    "lng": -3.52261,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels east lothian",
+    "town": "east lothian",
+    "volume": 20,
+    "cpc": 12.3,
+    "competition": 84.0,
+    "opportunity_score": 91.8,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelseastlothian.co.uk",
+    "emd_best_available": "solarpanelseastlothian.co.uk",
+    "emd_available": [
+      "solarpanelseastlothian.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.95612,
+    "lng": -2.78332,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels dunfermline",
+    "town": "dunfermline",
+    "volume": 20,
+    "cpc": 12.22,
+    "competition": 83.0,
+    "opportunity_score": 91.9,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Fife",
+    "emd_primary": "solarpanelsdunfermline.co.uk",
+    "emd_best_available": "solarpanelsdunfermline.co.uk",
+    "emd_available": [
+      "solarpanelsdunfermline.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.07156,
+    "lng": -3.45887,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels lanarkshire",
+    "town": "lanarkshire",
+    "volume": 20,
+    "cpc": 8.52,
+    "competition": 94.0,
+    "opportunity_score": 59.2,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Lanarkshire",
+    "emd_primary": "solarpanelslanarkshire.co.uk",
+    "emd_best_available": "solarpanelslanarkshire.co.uk",
+    "emd_available": [
+      "solarpanelslanarkshire.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.76667,
+    "lng": -3.91667,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels elgin",
+    "town": "elgin",
+    "volume": 20,
+    "cpc": 8.37,
+    "competition": 90.0,
+    "opportunity_score": 59.8,
+    "tier": "C",
+    "volume_bucket": "20-69",
+    "region": "Aberdeen & North East",
+    "emd_primary": "solarpanelselgin.co.uk",
+    "emd_best_available": "solarpanelselgin.co.uk",
+    "emd_available": [
+      "solarpanelselgin.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.64947,
+    "lng": -3.31843,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels kilmarnock",
+    "town": "kilmarnock",
+    "volume": 10,
+    "cpc": 43.58,
+    "competition": 89.0,
+    "opportunity_score": 156.8,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Ayrshire",
+    "emd_primary": "solarpanelskilmarnock.co.uk",
+    "emd_best_available": "solarpanelskilmarnock.co.uk",
+    "emd_available": [
+      "solarpanelskilmarnock.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.61171,
+    "lng": -4.49581,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels paisley",
+    "town": "paisley",
+    "volume": 10,
+    "cpc": 25.15,
+    "competition": 97.0,
+    "opportunity_score": 85.5,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Glasgow & Clyde",
+    "emd_primary": "solarpanelspaisley.co.uk",
+    "emd_best_available": "solarpanelspaisley.co.uk",
+    "emd_available": [
+      "solarpanelspaisley.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.83173,
+    "lng": -4.43254,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels ayr",
+    "town": "ayr",
+    "volume": 10,
+    "cpc": 23.49,
+    "competition": 83.0,
+    "opportunity_score": 88.3,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Ayrshire",
+    "emd_primary": "solarpanelsayr.co.uk",
+    "emd_best_available": "solarpanelsayr.co.uk",
+    "emd_available": [
+      "solarpanelsayr.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.46273,
+    "lng": -4.63393,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels west lothian",
+    "town": "west lothian",
+    "volume": 10,
+    "cpc": 19.0,
+    "competition": 80.0,
+    "opportunity_score": 73.1,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelswestlothian.co.uk",
+    "emd_best_available": "solarpanelswestlothian.co.uk",
+    "emd_available": [
+      "solarpanelswestlothian.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.97639,
+    "lng": -3.60364,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels forres",
+    "town": "forres",
+    "volume": 10,
+    "cpc": 14.81,
+    "competition": 82.0,
+    "opportunity_score": 56.1,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Aberdeen & North East",
+    "emd_primary": "solarpanelsforres.co.uk",
+    "emd_best_available": "solarpanelsforres.co.uk",
+    "emd_available": [
+      "solarpanelsforres.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.60997,
+    "lng": -3.62115,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels east kilbride",
+    "town": "east kilbride",
+    "volume": 10,
+    "cpc": 13.61,
+    "competition": 91.0,
+    "opportunity_score": 48.3,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Glasgow & Clyde",
+    "emd_primary": "solarpanelseastkilbride.co.uk",
+    "emd_best_available": "solarpanelseastkilbride.co.uk",
+    "emd_available": [
+      "solarpanelseastkilbride.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.76412,
+    "lng": -4.17669,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels hamilton",
+    "town": "hamilton",
+    "volume": 10,
+    "cpc": 12.65,
+    "competition": 90.0,
+    "opportunity_score": 45.2,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Lanarkshire",
+    "emd_primary": "solarpanelshamilton.co.uk",
+    "emd_best_available": "solarpanelshamilton.co.uk",
+    "emd_available": [
+      "solarpanelshamilton.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.76667,
+    "lng": -4.03333,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels bathgate",
+    "town": "bathgate",
+    "volume": 10,
+    "cpc": 12.25,
+    "competition": 93.0,
+    "opportunity_score": 42.8,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Edinburgh & Lothians",
+    "emd_primary": "solarpanelsbathgate.co.uk",
+    "emd_best_available": "solarpanelsbathgate.co.uk",
+    "emd_available": [
+      "solarpanelsbathgate.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.90204,
+    "lng": -3.64398,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels motherwell",
+    "town": "motherwell",
+    "volume": 10,
+    "cpc": 7.69,
+    "competition": 100.0,
+    "opportunity_score": 25.6,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Lanarkshire",
+    "emd_primary": "solarpanelsmotherwell.co.uk",
+    "emd_best_available": "solarpanelsmotherwell.co.uk",
+    "emd_available": [
+      "solarpanelsmotherwell.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.78924,
+    "lng": -3.99187,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels highlands",
+    "town": "highlands",
+    "volume": 10,
+    "cpc": 4.69,
+    "competition": 58.0,
+    "opportunity_score": 21.7,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Highlands",
+    "emd_primary": "solarpanelshighlands.co.uk",
+    "emd_best_available": "solarpanelshighlands.co.uk",
+    "emd_available": [
+      "solarpanelshighlands.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 57.19553,
+    "lng": -3.8259,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels cumbernauld",
+    "town": "cumbernauld",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 50.0,
+    "opportunity_score": 2.5,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Lanarkshire",
+    "emd_primary": "solarpanelscumbernauld.co.uk",
+    "emd_best_available": "solarpanelscumbernauld.co.uk",
+    "emd_available": [
+      "solarpanelscumbernauld.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.94685,
+    "lng": -3.99051,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels kinross",
+    "town": "kinross",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 50.0,
+    "opportunity_score": 2.5,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Tayside",
+    "emd_primary": "solarpanelskinross.co.uk",
+    "emd_best_available": "solarpanelskinross.co.uk",
+    "emd_available": [
+      "solarpanelskinross.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.20466,
+    "lng": -3.42138,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels kirkcaldy",
+    "town": "kirkcaldy",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 29.0,
+    "opportunity_score": 3.2,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Fife",
+    "emd_primary": "solarpanelskirkcaldy.co.uk",
+    "emd_best_available": "solarpanelskirkcaldy.co.uk",
+    "emd_available": [
+      "solarpanelskirkcaldy.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.11683,
+    "lng": -3.15999,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels perthshire",
+    "town": "perthshire",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 7.0,
+    "opportunity_score": 4.4,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Tayside",
+    "emd_primary": "solarpanelsperthshire.co.uk",
+    "emd_best_available": "solarpanelsperthshire.co.uk",
+    "emd_available": [
+      "solarpanelsperthshire.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.37268,
+    "lng": -3.83891,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels renfrewshire",
+    "town": "renfrewshire",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 25.0,
+    "opportunity_score": 3.3,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Glasgow & Clyde",
+    "emd_primary": "solarpanelsrenfrewshire.co.uk",
+    "emd_best_available": "solarpanelsrenfrewshire.co.uk",
+    "emd_available": [
+      "solarpanelsrenfrewshire.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 55.82906,
+    "lng": -4.51605,
+    "extras": []
+  },
+  {
+    "keyword": "solar panels tayside",
+    "town": "tayside",
+    "volume": 10,
+    "cpc": 0,
+    "competition": 86.0,
+    "opportunity_score": 1.8,
+    "tier": "D",
+    "volume_bucket": "<20",
+    "region": "Tayside",
+    "emd_primary": "solarpanelstayside.co.uk",
+    "emd_best_available": "solarpanelstayside.co.uk",
+    "emd_available": [
+      "solarpanelstayside.co.uk"
+    ],
+    "emd_available_count": 0,
+    "emd_nohyphen": false,
+    "lat": 56.64382,
+    "lng": -2.89001,
+    "extras": []
+  }
+]

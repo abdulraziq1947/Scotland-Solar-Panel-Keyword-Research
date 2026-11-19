@@ -1,0 +1,187 @@
+{
+  "scotland": {
+    "lat": 56.49,
+    "lng": -4.2,
+    "display": "Scotland"
+  },
+  "glasgow": {
+    "lat": 55.86515,
+    "lng": -4.25763,
+    "display": "Glasgow"
+  },
+  "edinburgh": {
+    "lat": 55.95206,
+    "lng": -3.19648,
+    "display": "Edinburgh"
+  },
+  "aberdeen": {
+    "lat": 57.14369,
+    "lng": -2.09814,
+    "display": "Aberdeen"
+  },
+  "aberdeenshire": {
+    "lat": 57.28446,
+    "lng": -2.37736,
+    "display": "Inverurie"
+  },
+  "inverness": {
+    "lat": 57.47908,
+    "lng": -4.22398,
+    "display": "Inverness"
+  },
+  "perth": {
+    "lat": 56.39522,
+    "lng": -3.43139,
+    "display": "Perth"
+  },
+  "dundee": {
+    "lat": 56.46913,
+    "lng": -2.97489,
+    "display": "Dundee"
+  },
+  "fife": {
+    "lat": 56.19514,
+    "lng": -3.17316,
+    "display": "Glenrothes"
+  },
+  "ayrshire": {
+    "lat": 55.6194,
+    "lng": -4.65508,
+    "display": "Irvine"
+  },
+  "dumfries": {
+    "lat": 55.06959,
+    "lng": -3.61139,
+    "display": "Dumfries"
+  },
+  "stirling": {
+    "lat": 56.11903,
+    "lng": -3.93682,
+    "display": "Stirling"
+  },
+  "dunfermline": {
+    "lat": 56.07156,
+    "lng": -3.45887,
+    "display": "Dunfermline"
+  },
+  "east lothian": {
+    "lat": 55.95612,
+    "lng": -2.78332,
+    "display": "Haddington"
+  },
+  "elgin": {
+    "lat": 57.64947,
+    "lng": -3.31843,
+    "display": "Elgin"
+  },
+  "falkirk": {
+    "lat": 56.0021,
+    "lng": -3.78535,
+    "display": "Falkirk"
+  },
+  "galashiels": {
+    "lat": 55.61458,
+    "lng": -2.80695,
+    "display": "Galashiels"
+  },
+  "lanarkshire": {
+    "lat": 55.76667,
+    "lng": -3.91667,
+    "display": "Wishaw"
+  },
+  "livingston": {
+    "lat": 55.90288,
+    "lng": -3.52261,
+    "display": "Livingston"
+  },
+  "midlothian": {
+    "lat": 55.89317,
+    "lng": -3.06806,
+    "display": "Dalkeith"
+  },
+  "moray": {
+    "lat": 57.72136,
+    "lng": -3.28341,
+    "display": "Lossiemouth"
+  },
+  "ayr": {
+    "lat": 55.46273,
+    "lng": -4.63393,
+    "display": "Ayr"
+  },
+  "bathgate": {
+    "lat": 55.90204,
+    "lng": -3.64398,
+    "display": "Bathgate"
+  },
+  "cumbernauld": {
+    "lat": 55.94685,
+    "lng": -3.99051,
+    "display": "Cumbernauld"
+  },
+  "east kilbride": {
+    "lat": 55.76412,
+    "lng": -4.17669,
+    "display": "East Kilbride"
+  },
+  "forres": {
+    "lat": 57.60997,
+    "lng": -3.62115,
+    "display": "Forres"
+  },
+  "hamilton": {
+    "lat": 55.76667,
+    "lng": -4.03333,
+    "display": "Hamilton"
+  },
+  "highlands": {
+    "lat": 57.19553,
+    "lng": -3.8259,
+    "display": "Aviemore"
+  },
+  "kilmarnock": {
+    "lat": 55.61171,
+    "lng": -4.49581,
+    "display": "Kilmarnock"
+  },
+  "kinross": {
+    "lat": 56.20466,
+    "lng": -3.42138,
+    "display": "Kinross"
+  },
+  "kirkcaldy": {
+    "lat": 56.11683,
+    "lng": -3.15999,
+    "display": "Kirkcaldy"
+  },
+  "motherwell": {
+    "lat": 55.78924,
+    "lng": -3.99187,
+    "display": "Motherwell"
+  },
+  "paisley": {
+    "lat": 55.83173,
+    "lng": -4.43254,
+    "display": "Paisley"
+  },
+  "perthshire": {
+    "lat": 56.37268,
+    "lng": -3.83891,
+    "display": "Crieff"
+  },
+  "renfrewshire": {
+    "lat": 55.82906,
+    "lng": -4.51605,
+    "display": "Johnstone"
+  },
+  "tayside": {
+    "lat": 56.64382,
+    "lng": -2.89001,
+    "display": "Forfar"
+  },
+  "west lothian": {
+    "lat": 55.97639,
+    "lng": -3.60364,
+    "display": "Linlithgow"
+  }
+}
