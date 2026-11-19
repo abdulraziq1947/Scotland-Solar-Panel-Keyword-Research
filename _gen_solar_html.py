@@ -1984,6 +1984,7 @@ html = html.replace(
 
 out_paths = [
     Path(r"D:\Tools\Solar\Scotland Solar Project Plan\scotland-solar-keyword-explorer.html"),
+    Path(r"D:\Tools\Solar\Scotland Solar Project Plan\public\index.html"),
 ]
 for out in out_paths:
     out.write_text(html, encoding="utf-8")
